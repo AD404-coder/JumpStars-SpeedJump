@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-For the final project, I want to create etheir a small platformer using lua or a top dow pixel RPG using game maker sudios(Similar camera angle to a Link to the Past)
+For the final project, I want to create etheir a small platformer using lua or a top down pixel RPG using game maker sudios(Similar camera angle to a Link to the Past)
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
