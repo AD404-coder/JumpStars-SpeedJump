@@ -1,2 +1,2 @@
-# Pixel-Fight
+# JunpStars-SpeedJump
 Final Project file.
